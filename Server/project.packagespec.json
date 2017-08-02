@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/mattak/github/mattak/MagicOnionConsoleSample/Server/Server.csproj",
+    "projectName": "Server",
+    "projectPath": "/Users/mattak/github/mattak/MagicOnionConsoleSample/Server/Server.csproj",
+    "outputPath": "/Users/mattak/github/mattak/MagicOnionConsoleSample/Server/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "MagicOnion": {
+          "target": "Package",
+          "version": "0.5.1"
+        }
+      }
+    }
+  }
+}
